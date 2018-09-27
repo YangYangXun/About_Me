@@ -27,12 +27,12 @@
 
 #### PHP/Laravel
 
-- <a href="" target="_blank"><B>Fashe. 電子商務網站</B></a><BR>
-  ⌞ Bootstrap 快速搭建響應式網頁 + SCSS 管理表格樣式。 <BR>
+- <a href="https://github.com/YangYangXun/Laravel-EcommerceFashe" target="_blank"><B>Fashe. 電子商務網站</B></a><BR>
+  ⌞ Bootstrap 快速搭建響應式網頁。 <BR>
   ⌞ 使用 Laravel Framework 實作<BR>
  
   
-- <a href="" target="_blank"><B>SharePost 部落格 </B> </a> <BR>
+- <a href="https://github.com/YangYangXun/Laravel-SharePost" target="_blank"><B>SharePost 部落格 </B> </a> <BR>
   ⌞ 使用 Laravel Framework 實作<BR>
   ⌞ 前後台管理<BR>
   
