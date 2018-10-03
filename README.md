@@ -45,14 +45,6 @@
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。<BR>
   ⌞ Bootstrap 快速搭建響應式網頁。 <BR>
 
-
-### 證照
-  
-*   OCA Java SE7 Programmer
-![](https://raw.githubusercontent.com/YangYangXun/ProjectImage/master/Certificate/Yang_OCA.png)
-*   OCP Java SE7 Programmer
-![](https://raw.githubusercontent.com/YangYangXun/ProjectImage/master/Certificate/Yang_OCP.png)
-
 ### 關於我
 
 * 能夠獨立開發基本的網站系統
@@ -65,3 +57,11 @@
 * 建立個人網站並撰寫網頁相關技術文件
 * 學習 Vue.js 等前端框架
 * 參加 iT 邦幫忙鐵人賽
+
+
+### 相關證照
+  
+*   OCA Java SE7 Programmer
+![](https://raw.githubusercontent.com/YangYangXun/ProjectImage/master/Certificate/Yang_OCA.png)
+*   OCP Java SE7 Programmer
+![](https://raw.githubusercontent.com/YangYangXun/ProjectImage/master/Certificate/Yang_OCP.png)
