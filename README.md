@@ -13,13 +13,19 @@
 
 ### 專業技能
 
-
+#### 後端
 - 使用 PHP / Laravel 開發基本內容管理系統、購物車系統
-- 使用 Bootstrap 快速開發響應式網頁
 - 使用 MySQL 做數據管理
-- 利用 AJAX 撈取第三方 API 資料，串接並應用在網頁上
-- 了解 Git / Github 版本控制系統的基本指令運用
+- 了解 Composer 套件管理
 - 了解 MVC 架構
+
+#### 前端
+- 了解 Bootstrap 快速開發響應式網頁
+- 利用 JavaScript / AJAX 撈取第三方 API 資料，串接並應用在網頁上
+
+#### 版本控制
+- 了解 Git / Github 版本控制系統的基本指令運用
+
 
 
 ### 作品集 
@@ -36,14 +42,15 @@
   
 - <a href="https://github.com/YangYangXun/Laravel-SharePost" target="_blank"><B>SharePost 部落格 </B> </a> <BR>
   ⌞ 使用 Laravel Framework 實作部落格管理系統 <BR>
-  ⌞ 使用 Bootstrap 快速搭建響應式網頁 <BR>
   ⌞ MySQL 資料庫管理 <BR>
+  ⌞ 使用 Bootstrap 快速搭建響應式網頁 <BR>
   
 #### JavaScript/AJAX
 
 - <a href="https://github.com/YangYangXun/Tainan-T-Bike" target="_blank"><B>台南U-Bike站點資訊</B></a><BR>
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。<BR>
   ⌞ Bootstrap 快速搭建響應式網頁。 <BR>
+
 
 ### 關於我
 
