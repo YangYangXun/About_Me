@@ -24,7 +24,7 @@
 - 利用 JavaScript / AJAX 撈取第三方 API 資料，串接並應用在網頁上
 
 #### 版本控制
-- 了解 Git / Github 版本控制系統的基本指令運用
+- 了解 Git / GitHub 版本控制系統的基本指令運用
 
 
 
