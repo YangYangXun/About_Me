@@ -14,10 +14,10 @@
 ### 專業技能
 
 #### 後端
-- 使用 PHP / Laravel 開發基本內容管理系統、購物車系統
-- 使用 MySQL 做數據管理
-- 了解 Composer 套件管理
-- 了解 MVC 架構
+- 使用 PHP / Laravel 開發基本內容管理系統、電子商務系統
+- 使用 MySQL 數據管理
+- 了解 MVC 框架
+- 了解 Linux 基本指令
 
 #### 前端
 - 了解 Bootstrap 快速開發響應式網頁
@@ -48,7 +48,7 @@
 #### JavaScript/AJAX
 
 - <a href="https://github.com/YangYangXun/Tainan-T-Bike" target="_blank"><B>台南U-Bike站點資訊</B></a><BR>
-  ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。<BR>
+  ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / AJAX 呈現在網頁上。<BR>
   ⌞ Bootstrap 快速搭建響應式網頁。 <BR>
 
 
