@@ -47,7 +47,7 @@
   
 #### JavaScript/AJAX
 
-- <a href="https://github.com/YangYangXun/Tainan-T-Bike" target="_blank"><B>台南U-Bike站點資訊</B></a><BR>
+- <a href="https://github.com/YangYangXun/Tainan-T-Bike" target="_blank"><B>台南T-Bike站點資訊</B></a><BR>
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / AJAX 呈現在網頁上。<BR>
   ⌞ Bootstrap 快速搭建響應式網頁。 <BR>
 
